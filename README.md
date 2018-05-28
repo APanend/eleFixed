@@ -51,7 +51,7 @@ offsetTop | Number，此元素距离顶部多少像素时开始固定在顶部�
 
 ##### 效果预览：
 ![image](https://raw.githubusercontent.com/KenyeeC/eleFixed/master/demo.gif)
-
+ 
 ##### 删除元素:
 ```html
 <script>
